@@ -24,32 +24,32 @@
           "boards": [{ "name": "ZeroAD" }, { "name": "ZeroAD_vcu" }],
           "toolsDependencies": [
             {
-              "packager": "arduino",
+              "packager": "ZeroAD",
               "name": "arm-none-eabi-gcc",
               "version": "7-2017q4"
             },
             {
-              "packager": "arduino",
+              "packager": "ZeroAD",
               "name": "bossac",
               "version": "1.7.0-arduino3"
             },
             {
-              "packager": "arduino",
+              "packager": "ZeroAD",
               "name": "openocd",
               "version": "0.10.0-arduino7"
             },
             {
-              "packager": "arduino",
+              "packager": "ZeroAD",
               "name": "CMSIS",
               "version": "4.5.0"
             },
             {
-              "packager": "arduino",
+              "packager": "ZeroAD",
               "name": "CMSIS-Atmel",
               "version": "1.2.0"
             },
             {
-              "packager": "arduino",
+              "packager": "ZeroAD",
               "name": "arduinoOTA",
               "version": "1.2.1"
             }
