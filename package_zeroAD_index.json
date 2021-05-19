@@ -64,9 +64,9 @@
             "online": "https://github.com/RaulAD"
           },
           "url": "https://raw.githubusercontent.com/RaulAD/ZeroAD_Boards/main/ZeroAD_v1.0.1.zip",
-          "archiveFileName": "ZeroAD_v1.0.0.zip",
-          "checksum": "SHA-256:E6D66E22836D5023212492278E0970CE225440DD4EF56182609E62885F521662",
-          "size": "4846508",
+          "archiveFileName": "ZeroAD_v1.0.1.zip",
+          "checksum": "SHA-256:0A56102F1AE59A1A2784D1C62810423F4A45B8969DC16CC98298B1E274DC9335",
+          "size": "4846517",
           "boards": [{ "name": "ZeroAD" }, { "name": "ZeroAD (SAMD21J17 Without Bootloader)" }, { "name": "ZeroAD_vcu" }],
           "toolsDependencies": [
             {
