@@ -36,7 +36,7 @@
             {
               "packager": "ZeroAD",
               "name": "openocd",
-              "version": "0.10.0-arduino7"
+              "version": "0.11.0-arduino2"
             },
             {
               "packager": "ZeroAD",
@@ -82,7 +82,7 @@
             {
               "packager": "ZeroAD",
               "name": "openocd",
-              "version": "0.10.0-arduino7"
+              "version": "0.11.0-arduino2"
             },
             {
               "packager": "ZeroAD",
@@ -249,49 +249,49 @@
         },
         {
           "name": "openocd",
-          "version": "0.10.0-arduino7",
+          "version": "0.11.0-arduino2",
           "systems": [
             {
-              "size": "1638575",
-              "checksum": "SHA-256:f8e0d783e80a3d5f75ee82e9542315871d46e1e283a97447735f1cbcd8986b06",
-              "host": "arm-linux-gnueabihf",
-              "archiveFileName": "openocd-0.10.0-arduino7-static-arm-linux-gnueabihf.tar.bz2",
-              "url": "http://downloads.arduino.cc/tools/openocd-0.10.0-arduino7-static-arm-linux-gnueabihf.tar.bz2"
-            },
-            {
-              "size": "1580739",
-              "checksum": "SHA-256:d47d728a9a8d98f28dc22e31d7127ced9de0d5e268292bf935e050ef1d2bdfd0",
+              "size": "1902818",
+              "checksum": "SHA-256:a1aa7f1435a61eafb72ee90722f2496d6a34a7a0f085d0315c2613e4a548b824",
               "host": "aarch64-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-arduino7-static-aarch64-linux-gnu.tar.bz2",
-              "url": "http://downloads.arduino.cc/tools/openocd-0.10.0-arduino7-static-aarch64-linux-gnu.tar.bz2"
+              "archiveFileName": "openocd-0.11.0-arduino2-static-aarch64-linux-gnu.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/openocd-0.11.0-arduino2-static-aarch64-linux-gnu.tar.bz2"
             },
             {
-              "size": "1498970",
-              "checksum": "SHA-256:1e539a587a0c54a551ce0dc542af10a2520b1c93bbfe2ca4ebaef4c83411df1a",
-              "host": "i386-apple-darwin11",
-              "archiveFileName": "openocd-0.10.0-arduino7-static-x86_64-apple-darwin13.tar.bz2",
-              "url": "http://downloads.arduino.cc/tools/openocd-0.10.0-arduino7-static-x86_64-apple-darwin13.tar.bz2"
+              "size": "1986716",
+              "checksum": "SHA-256:57041130160be086e69387cceb4616eefc9819a0ef75de1f7c11aea57fb92699",
+              "host": "arm-linux-gnueabihf",
+              "archiveFileName": "openocd-0.11.0-arduino2-static-arm-linux-gnueabihf.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/openocd-0.11.0-arduino2-static-arm-linux-gnueabihf.tar.bz2"
             },
             {
-              "size": "1701581",
-              "checksum": "SHA-256:91d418bd309ec1e98795c622cd25c936aa537c0b3828fa5bcb191389378a1b27",
-              "host": "x86_64-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-arduino7-static-x86_64-ubuntu12.04-linux-gnu.tar.bz2",
-              "url": "http://downloads.arduino.cc/tools/openocd-0.10.0-arduino7-static-x86_64-ubuntu12.04-linux-gnu.tar.bz2"
-            },
-            {
-              "size": "1626347",
-              "checksum": "SHA-256:08a18f39d72a5626383503053a30a5da89eed7fdccb6f514b20b77403eb1b2b4",
+              "size": "1971364",
+              "checksum": "SHA-256:6f4a8b77c8076aa18afb8438472526dff8c0d161a3ca68d0326163b59fcab663",
               "host": "i686-linux-gnu",
-              "archiveFileName": "openocd-0.10.0-arduino7-static-i686-ubuntu12.04-linux-gnu.tar.bz2",
-              "url": "http://downloads.arduino.cc/tools/openocd-0.10.0-arduino7-static-i686-ubuntu12.04-linux-gnu.tar.bz2"
+              "archiveFileName": "openocd-0.11.0-arduino2-static-i686-ubuntu12.04-linux-gnu.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/openocd-0.11.0-arduino2-static-i686-ubuntu12.04-linux-gnu.tar.bz2"
             },
             {
-              "size": "2016965",
-              "checksum": "SHA-256:f251aec5471296e18aa540c3078d66475357a76a77c16c06a2d9345f4e12b3d5",
+              "size": "2460087",
+              "checksum": "SHA-256:631010980f12b1e750c4c67ce012b31c5953caabf4d30607d806e3d2b717d4b8",
               "host": "i686-mingw32",
-              "archiveFileName": "openocd-0.10.0-arduino7-static-i686-w64-mingw32.zip",
-              "url": "http://downloads.arduino.cc/tools/openocd-0.10.0-arduino7-static-i686-w64-mingw32.zip"
+              "archiveFileName": "openocd-0.11.0-arduino2-static-i686-w64-mingw32.zip",
+              "url": "http://downloads.arduino.cc/tools/openocd-0.11.0-arduino2-static-i686-w64-mingw32.zip"
+            },
+            {
+              "size": "1893150",
+              "checksum": "SHA-256:280e7234eba84e830e92d791ebc685286f71d2bc1d3347f93605ef170d54fef4",
+              "host": "i386-apple-darwin11",
+              "archiveFileName": "openocd-0.11.0-arduino2-static-x86_64-apple-darwin13.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/openocd-0.11.0-arduino2-static-x86_64-apple-darwin13.tar.bz2"
+            },
+            {
+              "size": "2052080",
+              "checksum": "SHA-256:4d19b6e3906de1434ec86841e0e3138235714c655d45f037c0fabfa5e5c0681b",
+              "host": "x86_64-linux-gnu",
+              "archiveFileName": "openocd-0.11.0-arduino2-static-x86_64-ubuntu12.04-linux-gnu.tar.bz2",
+              "url": "http://downloads.arduino.cc/tools/openocd-0.11.0-arduino2-static-x86_64-ubuntu12.04-linux-gnu.tar.bz2"
             }
           ]
         },
