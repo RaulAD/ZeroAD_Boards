@@ -19,8 +19,8 @@
           },
           "url": "https://raw.githubusercontent.com/RaulAD/ZeroAD_Boards/main/ZeroAD_WOB_v1.0.0.zip",
           "archiveFileName": "ZeroAD_WOB_v1.0.0.zip",
-          "checksum": "SHA-256:CC88E83BB0D2F361EF2DC8993B431EA6664129A85F58093F9DAD55B82F3DB255",
-          "size": "5021946",
+          "checksum": "SHA-256:2FB3E6491506FD745CDBB4FC6B252565DBEA8A5631658E627F21E4DAE752CD8B",
+          "size": "5021949",
           "boards": [{ "name": "ZeroAD_WOB" }, { "name": "ZeroAD_WOB_vcu" }],
           "toolsDependencies": [
             {
@@ -36,7 +36,7 @@
             {
               "packager": "ZeroAD_WOB",
               "name": "openocd",
-              "version": "0.10.0-arduino7"
+              "version": "0.11.0-arduino2"
             },
             {
               "packager": "ZeroAD_WOB",
