@@ -65,8 +65,8 @@
           },
           "url": "https://raw.githubusercontent.com/RaulAD/ZeroAD_Boards/main/ZeroAD_v1.0.1.zip",
           "archiveFileName": "ZeroAD_v1.0.1.zip",
-          "checksum": "SHA-256:3E7643FC84A36EF5AD75F6720E0FAB351B1FCC2C503091B888506FD8A64E2BF3",
-          "size": "4846361",
+          "checksum": "SHA-256:49CB5FAE9B5678246576FADB9BF1796E8FB15110E9FECEB2EFA9A5842D30B1E1",
+          "size": "4846249",
           "boards": [{ "name": "ZeroAD" }, { "name": "ZeroAD_vcu" }],
           "toolsDependencies": [
             {
