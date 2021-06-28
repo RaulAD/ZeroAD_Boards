@@ -100,6 +100,52 @@
               "version": "1.2.1"
             }
           ]
+        },
+	{
+          "name": "ADevices SAMD (32-bits ARM Cortex-M0+) Boards",
+          "architecture": "samd",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/RaulAD"
+          },
+          "url": "https://raw.githubusercontent.com/RaulAD/ZeroAD_Boards/main/ZeroAD_v1.0.1.zip",
+          "archiveFileName": "ZeroAD_v1.0.1.zip",
+          "checksum": "SHA-256:EB05C79E76C22C86D2A351B506F29D5FD236BDC3E2B974B8818C070F732DBE1C",
+          "size": "4862226",
+          "boards": [{ "name": "ZeroAD" }, { "name": "ZeroAD_vcu" }],
+          "toolsDependencies": [
+            {
+              "packager": "ZeroAD",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "ZeroAD",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "ZeroAD",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "ZeroAD",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "ZeroAD",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "ZeroAD",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
         }
       ],
       "tools": [
